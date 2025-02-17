@@ -85,3 +85,6 @@ function majorityElement(nums) {
     
 }
 ```
+
+- **Time Complexity**: O(n), Since we are looping on elm once.
+- **Space Complexity**: O(1), using only constants once
